@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xZx3cgP3aoU=",
+  "success": true,
+  "projectFilePath": "/Users/simphiwe/Desktop/projects/FoundationalCsharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
+  "expectedPackageFiles": [
+    "/Users/simphiwe/.nuget/packages/microsoft.netcore.app.ref/8.0.17/microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "/Users/simphiwe/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.17/microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "/Users/simphiwe/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.17/microsoft.netcore.app.host.osx-arm64.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
