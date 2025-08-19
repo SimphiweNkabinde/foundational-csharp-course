@@ -12,3 +12,4 @@
 /Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/obj/Debug/net9.0/TestProject.pdb
 /Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/obj/Debug/net9.0/TestProject.genruntimeconfig.cache
 /Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/obj/Debug/net9.0/ref/TestProject.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/obj/Debug/net9.0/TestProject.sourcelink.json
