@@ -1,0 +1,15 @@
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/bin/Debug/net9.0/CodeReadability
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/bin/Debug/net9.0/CodeReadability.deps.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/bin/Debug/net9.0/CodeReadability.runtimeconfig.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/bin/Debug/net9.0/CodeReadability.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/bin/Debug/net9.0/CodeReadability.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/obj/Debug/net9.0/CodeReadability.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/obj/Debug/net9.0/CodeReadability.AssemblyInfoInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/obj/Debug/net9.0/CodeReadability.AssemblyInfo.cs
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/obj/Debug/net9.0/CodeReadability.csproj.CoreCompileInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/obj/Debug/net9.0/CodeReadability.sourcelink.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/obj/Debug/net9.0/CodeReadability.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/obj/Debug/net9.0/refint/CodeReadability.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/obj/Debug/net9.0/CodeReadability.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/obj/Debug/net9.0/CodeReadability.genruntimeconfig.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeReadability/obj/Debug/net9.0/ref/CodeReadability.dll
