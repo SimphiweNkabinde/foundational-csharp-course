@@ -1,0 +1,14 @@
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/bin/Debug/net9.0/TestProject
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/bin/Debug/net9.0/TestProject.deps.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/bin/Debug/net9.0/TestProject.runtimeconfig.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/bin/Debug/net9.0/TestProject.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/bin/Debug/net9.0/TestProject.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/obj/Debug/net9.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfoInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfo.cs
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/obj/Debug/net9.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/obj/Debug/net9.0/TestProject.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/obj/Debug/net9.0/refint/TestProject.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/obj/Debug/net9.0/TestProject.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/obj/Debug/net9.0/TestProject.genruntimeconfig.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/TestProject/obj/Debug/net9.0/ref/TestProject.dll
