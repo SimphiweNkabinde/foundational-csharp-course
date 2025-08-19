@@ -1,0 +1,15 @@
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/bin/Debug/net9.0/ArraysAndLoops
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/bin/Debug/net9.0/ArraysAndLoops.deps.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/bin/Debug/net9.0/ArraysAndLoops.runtimeconfig.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/bin/Debug/net9.0/ArraysAndLoops.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/bin/Debug/net9.0/ArraysAndLoops.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/obj/Debug/net9.0/ArraysAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/obj/Debug/net9.0/ArraysAndLoops.AssemblyInfoInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/obj/Debug/net9.0/ArraysAndLoops.AssemblyInfo.cs
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/obj/Debug/net9.0/ArraysAndLoops.csproj.CoreCompileInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/obj/Debug/net9.0/ArraysAndLoops.sourcelink.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/obj/Debug/net9.0/ArraysAndLoops.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/obj/Debug/net9.0/refint/ArraysAndLoops.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/obj/Debug/net9.0/ArraysAndLoops.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/obj/Debug/net9.0/ArraysAndLoops.genruntimeconfig.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArraysAndLoops/obj/Debug/net9.0/ref/ArraysAndLoops.dll
