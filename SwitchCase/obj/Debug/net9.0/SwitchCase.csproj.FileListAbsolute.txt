@@ -1,0 +1,15 @@
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/bin/Debug/net9.0/SwitchCase
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/bin/Debug/net9.0/SwitchCase.deps.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/bin/Debug/net9.0/SwitchCase.runtimeconfig.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/bin/Debug/net9.0/SwitchCase.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/bin/Debug/net9.0/SwitchCase.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/obj/Debug/net9.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/obj/Debug/net9.0/SwitchCase.AssemblyInfoInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/obj/Debug/net9.0/SwitchCase.AssemblyInfo.cs
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/obj/Debug/net9.0/SwitchCase.csproj.CoreCompileInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/obj/Debug/net9.0/SwitchCase.sourcelink.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/obj/Debug/net9.0/SwitchCase.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/obj/Debug/net9.0/refint/SwitchCase.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/obj/Debug/net9.0/SwitchCase.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/obj/Debug/net9.0/SwitchCase.genruntimeconfig.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/SwitchCase/obj/Debug/net9.0/ref/SwitchCase.dll
