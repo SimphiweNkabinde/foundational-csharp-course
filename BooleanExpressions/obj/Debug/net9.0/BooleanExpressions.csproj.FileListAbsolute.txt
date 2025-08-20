@@ -1,0 +1,15 @@
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/bin/Debug/net9.0/BooleanExpressions
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/bin/Debug/net9.0/BooleanExpressions.deps.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/bin/Debug/net9.0/BooleanExpressions.runtimeconfig.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/bin/Debug/net9.0/BooleanExpressions.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/bin/Debug/net9.0/BooleanExpressions.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/obj/Debug/net9.0/BooleanExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/obj/Debug/net9.0/BooleanExpressions.AssemblyInfoInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/obj/Debug/net9.0/BooleanExpressions.AssemblyInfo.cs
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/obj/Debug/net9.0/BooleanExpressions.csproj.CoreCompileInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/obj/Debug/net9.0/BooleanExpressions.sourcelink.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/obj/Debug/net9.0/BooleanExpressions.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/obj/Debug/net9.0/refint/BooleanExpressions.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/obj/Debug/net9.0/BooleanExpressions.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/obj/Debug/net9.0/BooleanExpressions.genruntimeconfig.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/BooleanExpressions/obj/Debug/net9.0/ref/BooleanExpressions.dll
