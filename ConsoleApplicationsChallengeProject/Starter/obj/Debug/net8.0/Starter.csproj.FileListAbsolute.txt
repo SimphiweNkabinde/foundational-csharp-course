@@ -1,0 +1,15 @@
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/bin/Debug/net8.0/Starter
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/bin/Debug/net8.0/Starter.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/obj/Debug/net8.0/Starter.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConsoleApplicationsChallengeProject/Starter/obj/Debug/net8.0/ref/Starter.dll
