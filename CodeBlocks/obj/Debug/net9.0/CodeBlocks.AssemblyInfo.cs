@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeBlocks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6eb18b4f6e39344bf420faf2bed6f066cb9186a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0935a689cbc9e057139a85bb7c822dd7d6be1690")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeBlocks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeBlocks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
