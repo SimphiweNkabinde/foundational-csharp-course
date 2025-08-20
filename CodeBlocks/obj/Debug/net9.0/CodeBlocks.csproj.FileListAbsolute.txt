@@ -1,0 +1,15 @@
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/bin/Debug/net9.0/CodeBlocks
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/bin/Debug/net9.0/CodeBlocks.deps.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/bin/Debug/net9.0/CodeBlocks.runtimeconfig.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/bin/Debug/net9.0/CodeBlocks.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/bin/Debug/net9.0/CodeBlocks.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/obj/Debug/net9.0/CodeBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/obj/Debug/net9.0/CodeBlocks.AssemblyInfoInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/obj/Debug/net9.0/CodeBlocks.AssemblyInfo.cs
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/obj/Debug/net9.0/CodeBlocks.csproj.CoreCompileInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/obj/Debug/net9.0/CodeBlocks.sourcelink.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/obj/Debug/net9.0/CodeBlocks.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/obj/Debug/net9.0/refint/CodeBlocks.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/obj/Debug/net9.0/CodeBlocks.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/obj/Debug/net9.0/CodeBlocks.genruntimeconfig.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CodeBlocks/obj/Debug/net9.0/ref/CodeBlocks.dll
