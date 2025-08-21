@@ -1,20 +1,18 @@
-﻿Random random = new Random();
-int current = random.Next(1, 11);
+﻿Random attack = new Random();
+int heroHealth = 10;
+int monsterHealth = 10;
 
-do
+while (heroHealth > 0 && monsterHealth > 0)
 {
-    current = random.Next(1, 11);
+    int damage = attack.Next(1, 11);
 
-    if (current >= 8) continue;
+    monsterHealth -= damage;
+    Console.WriteLine($"Monster was damaged and lost {damage} health and now has {monsterHealth} health.");
 
-    Console.WriteLine(current);
-} while (current != 7);
+    if (monsterHealth <= 0) continue;
 
-/*
-while (current >= 3)
-{
-    Console.WriteLine(current);
-    current = random.Next(1, 11);
+    heroHealth -= damage;
+    Console.WriteLine($"Hero was damaged and lost {damage} health and now has {heroHealth} health.");
 }
-Console.WriteLine($"Last number: {current}");
-*/
+
+Console.WriteLine(heroHealth > monsterHealth ? "Hero Wins!" : "Monster Wins!");
