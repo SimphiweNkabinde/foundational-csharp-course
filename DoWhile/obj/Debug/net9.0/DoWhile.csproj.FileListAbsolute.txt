@@ -1,0 +1,15 @@
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/bin/Debug/net9.0/DoWhile
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/bin/Debug/net9.0/DoWhile.deps.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/bin/Debug/net9.0/DoWhile.runtimeconfig.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/bin/Debug/net9.0/DoWhile.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/bin/Debug/net9.0/DoWhile.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/obj/Debug/net9.0/DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/obj/Debug/net9.0/DoWhile.AssemblyInfoInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/obj/Debug/net9.0/DoWhile.AssemblyInfo.cs
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/obj/Debug/net9.0/DoWhile.csproj.CoreCompileInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/obj/Debug/net9.0/DoWhile.sourcelink.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/obj/Debug/net9.0/DoWhile.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/obj/Debug/net9.0/refint/DoWhile.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/obj/Debug/net9.0/DoWhile.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/obj/Debug/net9.0/DoWhile.genruntimeconfig.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/DoWhile/obj/Debug/net9.0/ref/DoWhile.dll
