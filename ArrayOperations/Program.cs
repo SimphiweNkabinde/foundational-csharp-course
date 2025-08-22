@@ -63,7 +63,7 @@ foreach (string item in items)
 } */
 
 
-// Exercise - Complete a challenge to reverse words in a sentence
+/* // Exercise - Complete a challenge to reverse words in a sentence
 string pangram = "The quick brown fox jumps over the lazy dog";
 string result = "";
 
@@ -74,4 +74,14 @@ foreach (string word in pangram.Split(" "))
     result += string.Join("", wordArray) + " ";
 }
 
-Console.WriteLine(result);
+Console.WriteLine(result); */
+
+
+// Exercise - Complete a challenge to parse a string of orders, sort the orders and tag possible errors
+string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+string[] orderIDs = orderStream.Split(",");
+Array.Sort(orderIDs);
+foreach (var orderID in orderIDs)
+{
+    Console.WriteLine($"{orderID}{(orderID.Length != 4 ? "\t- Error" : "")}");
+}
