@@ -1,0 +1,15 @@
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/obj/Debug/net9.0/ConvertCast.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/obj/Debug/net9.0/ConvertCast.AssemblyInfoInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/obj/Debug/net9.0/ConvertCast.AssemblyInfo.cs
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/obj/Debug/net9.0/ConvertCast.csproj.CoreCompileInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/obj/Debug/net9.0/ConvertCast.sourcelink.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/bin/Debug/net9.0/ConvertCast
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/bin/Debug/net9.0/ConvertCast.deps.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/bin/Debug/net9.0/ConvertCast.runtimeconfig.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/bin/Debug/net9.0/ConvertCast.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/bin/Debug/net9.0/ConvertCast.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/obj/Debug/net9.0/ConvertCast.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/obj/Debug/net9.0/refint/ConvertCast.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/obj/Debug/net9.0/ConvertCast.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/obj/Debug/net9.0/ConvertCast.genruntimeconfig.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ConvertCast/obj/Debug/net9.0/ref/ConvertCast.dll
