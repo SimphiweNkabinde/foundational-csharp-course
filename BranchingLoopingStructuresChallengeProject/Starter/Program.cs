@@ -287,39 +287,32 @@ do
 
         case "3":
             // Ensure animal ages and physical descriptions are complete
-
-            // List all of our current pet information
             for (int i = 0; i < maxPets; i++)
             {
                 if (ourAnimals[i, 0] != "ID #: ")
                 {
-                    for (int j = 0; j < 6; j++)
+                    // Ensure a valid numeric value is assigned to animalAge
+                    int updatedAnimalAge;
+                    bool isValidAge = int.TryParse(ourAnimals[i, 2].Substring(5), out updatedAnimalAge);
+                    while (!isValidAge)
                     {
-                        // Ensure a valid numeric value is assigned to animalAge
-                        int updatedAnimalAge;
-                        bool isValidAge = int.TryParse(ourAnimals[i, 2].Substring(5), out updatedAnimalAge);
-                        while (!isValidAge)
-                        {
-                            Console.WriteLine($"Enter an age for {ourAnimals[i, 0]}");
-                            readResult = Console.ReadLine();
-                            isValidAge = int.TryParse(readResult, out updatedAnimalAge);
-                        }
-
-                        // Ensure that a valid string is assigned to animalPhysicalDescription
-                        string? updatedAnimalPhysicalDescription = ourAnimals[i, 4].Substring(22);
-                        while (updatedAnimalPhysicalDescription == null || updatedAnimalPhysicalDescription.Length == 0)
-                        {
-                            Console.WriteLine($"Enter a physical description for {ourAnimals[i, 0]} (size, color, breed, gender, weight, housebroken)");
-                            readResult = Console.ReadLine();
-                            updatedAnimalPhysicalDescription = readResult;
-                        }
-
-
-
-                        // update animal data
-                        ourAnimals[i, 2] = "Age: " + updatedAnimalAge;
-                        ourAnimals[i, 4] = "Physical description: " + updatedAnimalPhysicalDescription;
+                        Console.WriteLine($"Enter an age for {ourAnimals[i, 0]}");
+                        readResult = Console.ReadLine();
+                        isValidAge = int.TryParse(readResult, out updatedAnimalAge);
                     }
+
+                    // Ensure that a valid string is assigned to animalPhysicalDescription
+                    string? updatedAnimalPhysicalDescription = ourAnimals[i, 4].Substring(22);
+                    while (updatedAnimalPhysicalDescription == null || updatedAnimalPhysicalDescription.Length == 0)
+                    {
+                        Console.WriteLine($"Enter a physical description for {ourAnimals[i, 0]} (size, color, breed, gender, weight, housebroken)");
+                        readResult = Console.ReadLine();
+                        updatedAnimalPhysicalDescription = readResult;
+                    }
+
+                    // update animal data
+                    ourAnimals[i, 2] = "Age: " + updatedAnimalAge;
+                    ourAnimals[i, 4] = "Physical description: " + updatedAnimalPhysicalDescription;
                 }
             }
             Console.WriteLine("Age and physical description fields are complete for all of our friends. ");
@@ -329,7 +322,34 @@ do
 
         case "4":
             // Ensure animal nicknames and personality descriptions are complete
-            Console.WriteLine("Challenge Project - please check back soon to see progress.");
+            for (int i = 0; i < maxPets; i++)
+            {
+                if (ourAnimals[i, 0] != "ID #: ")
+                {
+                    // Ensure that a valid string is assigned to animalNickname
+                    string? updatedAnimalNickname = ourAnimals[i, 3].Substring(10);
+                    while (updatedAnimalNickname == null || updatedAnimalNickname.Length == 0)
+                    {
+                        Console.WriteLine($"Enter a nickname for {ourAnimals[i, 0]}");
+                        readResult = Console.ReadLine();
+                        updatedAnimalNickname = readResult;
+                    }
+
+                    // Ensure that a valid string is assigned to animalPersonalityDescription
+                    string? updatedAnimalPersonalityDescription = ourAnimals[i, 5].Substring(13);
+                    while (updatedAnimalPersonalityDescription == null || updatedAnimalPersonalityDescription.Length == 0)
+                    {
+                        Console.WriteLine($"Enter a personality description for {ourAnimals[i, 0]} (likes or dislikes, tricks, energy level)");
+                        readResult = Console.ReadLine();
+                        updatedAnimalPersonalityDescription = readResult;
+                    }
+
+                    // update animal data
+                    ourAnimals[i, 3] = "Age: " + updatedAnimalNickname;
+                    ourAnimals[i, 5] = "Physical description: " + updatedAnimalPersonalityDescription;
+                }
+            }
+            Console.WriteLine("Nickname and personality description fields are complete for all of our friends. ");
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
