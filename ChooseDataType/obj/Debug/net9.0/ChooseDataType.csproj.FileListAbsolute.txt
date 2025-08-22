@@ -1,0 +1,15 @@
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/bin/Debug/net9.0/ChooseDataType
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/bin/Debug/net9.0/ChooseDataType.deps.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/bin/Debug/net9.0/ChooseDataType.runtimeconfig.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/bin/Debug/net9.0/ChooseDataType.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/bin/Debug/net9.0/ChooseDataType.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/obj/Debug/net9.0/ChooseDataType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/obj/Debug/net9.0/ChooseDataType.AssemblyInfoInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/obj/Debug/net9.0/ChooseDataType.AssemblyInfo.cs
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/obj/Debug/net9.0/ChooseDataType.csproj.CoreCompileInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/obj/Debug/net9.0/ChooseDataType.sourcelink.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/obj/Debug/net9.0/ChooseDataType.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/obj/Debug/net9.0/refint/ChooseDataType.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/obj/Debug/net9.0/ChooseDataType.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/obj/Debug/net9.0/ChooseDataType.genruntimeconfig.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ChooseDataType/obj/Debug/net9.0/ref/ChooseDataType.dll
