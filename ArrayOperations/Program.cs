@@ -48,7 +48,7 @@ foreach (var pallet in pallets)
     Console.WriteLine($"-- {pallet}");
 } */
 
-// Exercise - Discover Split() and Join()
+/* // Exercise - Discover Split() and Join()
 string value = "abc123";
 char[] valueArray = value.ToCharArray();
 Array.Reverse(valueArray);
@@ -60,4 +60,18 @@ string[] items = result.Split(',');
 foreach (string item in items)
 {
     Console.WriteLine(item);
+} */
+
+
+// Exercise - Complete a challenge to reverse words in a sentence
+string pangram = "The quick brown fox jumps over the lazy dog";
+string result = "";
+
+foreach (string word in pangram.Split(" "))
+{
+    char[] wordArray = word.ToCharArray();
+    Array.Reverse(wordArray);
+    result += string.Join("", wordArray) + " ";
 }
+
+Console.WriteLine(result);
