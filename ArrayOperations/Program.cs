@@ -16,7 +16,7 @@ foreach (var pallet in pallets)
 } */
 
 
-// Explore Clear() and Resize()
+/* // Explore Clear() and Resize()
 string[] pallets = ["B14", "A11", "B12", "A13"];
 Console.WriteLine("");
 
@@ -46,4 +46,18 @@ Console.WriteLine($"Resizing 3 ... count: {pallets.Length}");
 foreach (var pallet in pallets)
 {
     Console.WriteLine($"-- {pallet}");
+} */
+
+// Exercise - Discover Split() and Join()
+string value = "abc123";
+char[] valueArray = value.ToCharArray();
+Array.Reverse(valueArray);
+// string result = new string(valueArray);
+string result = String.Join(",", valueArray);
+Console.WriteLine(result);
+
+string[] items = result.Split(',');
+foreach (string item in items)
+{
+    Console.WriteLine(item);
 }
