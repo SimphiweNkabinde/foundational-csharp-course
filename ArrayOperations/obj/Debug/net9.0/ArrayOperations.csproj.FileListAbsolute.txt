@@ -1,0 +1,15 @@
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/bin/Debug/net9.0/ArrayOperations
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/bin/Debug/net9.0/ArrayOperations.deps.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/bin/Debug/net9.0/ArrayOperations.runtimeconfig.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/bin/Debug/net9.0/ArrayOperations.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/bin/Debug/net9.0/ArrayOperations.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/obj/Debug/net9.0/ArrayOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/obj/Debug/net9.0/ArrayOperations.AssemblyInfoInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/obj/Debug/net9.0/ArrayOperations.AssemblyInfo.cs
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/obj/Debug/net9.0/ArrayOperations.csproj.CoreCompileInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/obj/Debug/net9.0/ArrayOperations.sourcelink.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/obj/Debug/net9.0/ArrayOperations.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/obj/Debug/net9.0/refint/ArrayOperations.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/obj/Debug/net9.0/ArrayOperations.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/obj/Debug/net9.0/ArrayOperations.genruntimeconfig.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/ArrayOperations/obj/Debug/net9.0/ref/ArrayOperations.dll
