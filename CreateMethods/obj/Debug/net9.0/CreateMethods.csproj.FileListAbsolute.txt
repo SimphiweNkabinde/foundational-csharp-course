@@ -1,0 +1,15 @@
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/bin/Debug/net9.0/CreateMethods
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/bin/Debug/net9.0/CreateMethods.deps.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/bin/Debug/net9.0/CreateMethods.runtimeconfig.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/bin/Debug/net9.0/CreateMethods.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/bin/Debug/net9.0/CreateMethods.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/obj/Debug/net9.0/CreateMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/obj/Debug/net9.0/CreateMethods.AssemblyInfoInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/obj/Debug/net9.0/CreateMethods.AssemblyInfo.cs
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/obj/Debug/net9.0/CreateMethods.csproj.CoreCompileInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/obj/Debug/net9.0/CreateMethods.sourcelink.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/obj/Debug/net9.0/CreateMethods.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/obj/Debug/net9.0/refint/CreateMethods.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/obj/Debug/net9.0/CreateMethods.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/obj/Debug/net9.0/CreateMethods.genruntimeconfig.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/CreateMethods/obj/Debug/net9.0/ref/CreateMethods.dll
