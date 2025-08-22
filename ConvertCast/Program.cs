@@ -48,6 +48,7 @@ Console.WriteLine(value);
 int value2 = Convert.ToInt32(1.5m); // converting rounds up
 Console.WriteLine(value2); */
 
+/* // TryParse Method
 string value = "bad";
 int result = 0;
 if (int.TryParse(value, out result))
@@ -59,4 +60,19 @@ else
     Console.WriteLine("Unable to report the measurement.");
 }
 if (result > 0)
-    Console.WriteLine($"Measurement (w/ offset): {50 + result}");
+    Console.WriteLine($"Measurement (w/ offset): {50 + result}"); */
+
+string[] values = { "12.3", "45", "ABC", "11", "DEF" };
+string message = "";
+decimal total = 0m;
+
+foreach (string item in values)
+{
+    decimal number;
+    if (decimal.TryParse(item, out number))
+        total += number;
+    else
+        message += item;
+}
+Console.WriteLine($"Message: {message}");
+Console.WriteLine($"Total: {total}");
