@@ -124,8 +124,37 @@ string data = "12345John Smith          5000  3  ";
 string updatedData = data.Remove(5, 20);
 Console.WriteLine(updatedData); */
 
-// Use the Replace() method
+/* // Use the Replace() method
 string message = "This--is--ex-amp-le--da-ta";
 message = message.Replace("--", " ");
 message = message.Replace("-", "");
-Console.WriteLine(message);
+Console.WriteLine(message); */
+
+/* Exercise - Complete a challenge to extract, replace, and remove data from an input string */
+
+const string input = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
+
+string quantity = "";
+string output = "";
+
+// Extract quantity
+string openSpan = "<span>";
+string closeSpan = "</span>";
+
+int openSpanPosition = input.IndexOf(openSpan) + openSpan.Length;
+int closeSpanPosition = input.IndexOf(closeSpan);
+
+quantity = input.Substring(openSpanPosition, closeSpanPosition - openSpanPosition);
+
+// Extract output
+string openDiv = "<div>";
+string closeDiv = "</div>";
+
+int openDivPosition = input.IndexOf(openDiv) + openDiv.Length;
+int closeDivPosition = input.IndexOf(closeDiv);
+
+output = input.Substring(openDivPosition, closeDivPosition - openDivPosition);
+output.Replace(tradeSymbol, regSymbol);
+
+Console.WriteLine($"Quantity: {quantity}");
+Console.WriteLine($"Output: {output}");
