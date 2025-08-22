@@ -65,7 +65,7 @@ int index = message.IndexOfAny(charsToFind);
 
 Console.WriteLine($"Found '{message[index]}' in '{message}' at index: {index}.");  */
 
-string message = "(What if) I have [different symbols] but every {open symbol} needs a [matching closing symbol]?";
+/* string message = "(What if) I have [different symbols] but every {open symbol} needs a [matching closing symbol]?";
 
 // The IndexOfAny() helper method requires a char array of characters. 
 // You want to look for:
@@ -114,4 +114,18 @@ while (true)
 
     int length = closingPosition - openingPosition;
     Console.WriteLine(message.Substring(openingPosition, length));
-}
+} */
+
+
+/* Exercise - Use the Remove() and Replace() methods */
+
+/* // Use the Remove() method
+string data = "12345John Smith          5000  3  ";
+string updatedData = data.Remove(5, 20);
+Console.WriteLine(updatedData); */
+
+// Use the Replace() method
+string message = "This--is--ex-amp-le--da-ta";
+message = message.Replace("--", " ");
+message = message.Replace("-", "");
+Console.WriteLine(message);
