@@ -1,5 +1,5 @@
 ﻿/* Exercise - Use parameters in methods */
-int[] schedule = { 800, 1200, 1600, 2000 };
+/* int[] schedule = { 800, 1200, 1600, 2000 };
 DisplayAdjustedTimes(schedule, 6, -6);
 
 void DisplayAdjustedTimes(int[] times, int currentGMT, int newGMT)
@@ -23,4 +23,28 @@ void DisplayAdjustedTimes(int[] times, int currentGMT, int newGMT)
         int newTime = ((times[i] + diff)) % 2400;
         Console.WriteLine($"{times[i]} -> {newTime}");
     }
+} */
+
+/* Exercise - Understand method scope */
+double pi = 3.14159;
+PrintCircleInfo(12);
+PrintCircleInfo(24);
+
+void PrintCircleArea(int radius)
+{
+    double area = pi * (radius * radius);
+    Console.WriteLine($"Area = {area}");
+}
+
+void PrintCircleCircumference(int radius)
+{
+    double circumference = 2 * pi * radius;
+    Console.WriteLine($"Circumference = {circumference}");
+}
+
+void PrintCircleInfo(int radius)
+{
+    Console.WriteLine($"Circle with radius {radius}");
+    PrintCircleArea(radius);
+    PrintCircleCircumference(radius);
 }
