@@ -1,0 +1,15 @@
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/bin/Debug/net9.0/MethodsWithParameters
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/bin/Debug/net9.0/MethodsWithParameters.deps.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/bin/Debug/net9.0/MethodsWithParameters.runtimeconfig.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/bin/Debug/net9.0/MethodsWithParameters.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/bin/Debug/net9.0/MethodsWithParameters.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/obj/Debug/net9.0/MethodsWithParameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/obj/Debug/net9.0/MethodsWithParameters.AssemblyInfoInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/obj/Debug/net9.0/MethodsWithParameters.AssemblyInfo.cs
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/obj/Debug/net9.0/MethodsWithParameters.csproj.CoreCompileInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/obj/Debug/net9.0/MethodsWithParameters.sourcelink.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/obj/Debug/net9.0/MethodsWithParameters.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/obj/Debug/net9.0/refint/MethodsWithParameters.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/obj/Debug/net9.0/MethodsWithParameters.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/obj/Debug/net9.0/MethodsWithParameters.genruntimeconfig.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/MethodsWithParameters/obj/Debug/net9.0/ref/MethodsWithParameters.dll
