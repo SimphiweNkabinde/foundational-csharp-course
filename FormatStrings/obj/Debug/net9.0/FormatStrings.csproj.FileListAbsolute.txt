@@ -1,0 +1,15 @@
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/bin/Debug/net9.0/FormatStrings
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/bin/Debug/net9.0/FormatStrings.deps.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/bin/Debug/net9.0/FormatStrings.runtimeconfig.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/bin/Debug/net9.0/FormatStrings.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/bin/Debug/net9.0/FormatStrings.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/obj/Debug/net9.0/FormatStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/obj/Debug/net9.0/FormatStrings.AssemblyInfoInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/obj/Debug/net9.0/FormatStrings.AssemblyInfo.cs
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/obj/Debug/net9.0/FormatStrings.csproj.CoreCompileInputs.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/obj/Debug/net9.0/FormatStrings.sourcelink.json
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/obj/Debug/net9.0/FormatStrings.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/obj/Debug/net9.0/refint/FormatStrings.dll
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/obj/Debug/net9.0/FormatStrings.pdb
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/obj/Debug/net9.0/FormatStrings.genruntimeconfig.cache
+/Users/simphiwe/Desktop/projects/FoundationalCsharp/FormatStrings/obj/Debug/net9.0/ref/FormatStrings.dll
